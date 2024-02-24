@@ -17,6 +17,9 @@ body{
     margin-left: 100px;
     padding-top: 100px;
 }
+img{
+    border-radius: 20%;
+}
 .social a button{
     border-radius: 25px;
 }
