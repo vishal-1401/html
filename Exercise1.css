@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+}
+body{
+    background-color: aquamarine;
+    margin-left: 70px;
+}
+.box-1{
+   
+    width: 1200px;
+    height: 600px;
+    display: flex;
+}
+.image{
+    margin-left: 100px;
+    padding-top: 100px;
+}
+.social a button{
+    border-radius: 25px;
+}
+.form{
+    margin-left: 100px;
+    padding-top: 100px;
+}
+.form input{
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.form h1{
+    text-align: center;
+}
+.sign button{
+    margin-left: 30px;
+    height: 50px;
+    width: 350px;
+    border-radius: 25px;
+    background-color: rgb(29, 29, 226);
+    color: white;
+    font-size: larger;
+}
+.social button{
+    margin-top: 15px;
+    margin-left: 80px;
+    height: 50px;
+    width: 175px;
+    margin-left: 23px;
+    font-size: larger;
+}
+.social i{
+   margin-right: 8px;
+}
